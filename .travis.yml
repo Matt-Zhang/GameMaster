@@ -1,0 +1,12 @@
+language: python
+python:
+  - "2.7"
+script:
+  - ./start.py &
+  -  cd tests 
+  - ./run_tests.py
+install:
+  - ./manage/quickinstall
+
+services:
+  - mongodb
