@@ -1,5 +1,7 @@
 #  Game Master
 
+This is a website aims at helping gamers organize online or offline tournament.
+
 ## Dependency
 
   + Python2 with virtualenv
