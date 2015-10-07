@@ -1,6 +1,10 @@
 #  Game Master
 
-This is a website aims at helping gamers organize online or offline tournament.
+This is the code of Game Master project, aiming at helping gamers organize online or offline tournament.
+
+The platform plays a middle role between the host and participants, providing a universial interface for hosting different kinds of games. The registration of users, arrangement of gaming schedules, and publishing game results are all integrated in our system. 
+
+This system is a web application, with Flask as its back-end platform. The technical detail is described below.
 
 ## Travis Badge
 [![Travis Badge](https://travis-ci.org/Matt-Zhang/GameMaster.svg?branch=dev)](https://travis-ci.org/haotianz/daily-kitten)
