@@ -2,6 +2,9 @@
 
 This is a website aims at helping gamers organize online or offline tournament.
 
+## Travis Badge
+[![Travis Badge](https://travis-ci.org/Matt-Zhang/GameMaster.svg?branch=dev)](https://travis-ci.org/haotianz/daily-kitten)
+
 ## Dependency
 
   + Python2 with virtualenv
