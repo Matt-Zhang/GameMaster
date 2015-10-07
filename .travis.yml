@@ -3,7 +3,8 @@ python:
   - "2.7"
 script:
   - ./start.py &
-  - ./tests/run_tests.py
+  -  cd test 
+  - ./run_tests.py
 install:
   - ./manage/quickinstall
 
